@@ -1,23 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap");
 
-@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
-
-
-html, body {
-    text-align: center;
-    width: 1000px;
-    height: 3000px;
-    margin: auto;
-    padding: auto;
-    font-family: 'Nunito', sans-serif;
-  
-    
-
+html,
+body {
+  text-align: center;
+  width: 1000px;
+  height: 3000px;
+  margin: auto;
+  padding: auto;
+  font-family: "Nunito", sans-serif;
 }
 
 h1 {
-    font-family: 'Lobster Two', cursive;
-    color: rgb(209, 13, 13);
+  font-family: "Lobster Two", cursive;
+  color: rgb(209, 13, 13);
+}
 
-
+section {
+  align-content: center;
+  background-color: white;
+  text-align: center;
+  align-items: center;
 }
